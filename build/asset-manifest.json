@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/exerciseApp/static/css/main.8561437a.css",
+    "main.js": "/exerciseApp/static/js/main.bbcab8f4.js",
+    "static/js/787.90895c91.chunk.js": "/exerciseApp/static/js/787.90895c91.chunk.js",
+    "static/media/pushUps.jpg": "/exerciseApp/static/media/pushUps.65fb9c7b1d95069c96be.jpg",
+    "static/media/sitUps.jpg": "/exerciseApp/static/media/sitUps.85b1402dfdc1b2190a38.jpg",
+    "static/media/squats.jpg": "/exerciseApp/static/media/squats.93b778c7efdbb85fcc89.jpg",
+    "static/media/running.jpg": "/exerciseApp/static/media/running.2ccbd3b3f029f21e9660.jpg",
+    "static/media/swimming.jpg": "/exerciseApp/static/media/swimming.c5ca5f2bdf55936e3f6c.jpg",
+    "index.html": "/exerciseApp/index.html",
+    "main.8561437a.css.map": "/exerciseApp/static/css/main.8561437a.css.map",
+    "main.bbcab8f4.js.map": "/exerciseApp/static/js/main.bbcab8f4.js.map",
+    "787.90895c91.chunk.js.map": "/exerciseApp/static/js/787.90895c91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8561437a.css",
+    "static/js/main.bbcab8f4.js"
+  ]
+}
